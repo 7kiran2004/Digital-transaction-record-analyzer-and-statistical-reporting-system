@@ -1,0 +1,2 @@
+# Digital-transaction-record-analyzer-and-statistical-reporting-system
+The Digital Transaction Record Analyzer and Statistical Reporting System is designed to manage, process, and analyze digital transaction data. It identifies transaction patterns, detects errors, calculates statistics, and generates reports using charts and graphs, helping users monitor transactions accurately and make better financial decisions.
